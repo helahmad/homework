@@ -1,0 +1,24 @@
+*{
+  padding: 5px;
+  margin: 5px;
+  box-sizing: border-box;
+  font-family: "Courier New";
+}
+
+.player-card {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: rgb(233, 233, 19);
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: x-large;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
